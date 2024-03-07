@@ -7,7 +7,7 @@ I am a chemist doing a PhD in theoretical biophysics
 - :alembic: I have an MSc in computational quantum chemistry
 - :computer: I do theoretical research writing equations and coding
 - I love knitting :yarn:, cooking :cook:, science :test_tube: and their different permutations
-- :mailbox: You can reach me on [Twitter](https://twitter.com/AvishaiBarnoy) or [LinkedIn](www.linkedin.com/in/avishai-barnoy)
+- :mailbox: You can reach me on [Twitter](https://twitter.com/avishai231) or [LinkedIn](https://www.linkedin.com/in/avishai-barnoy)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
