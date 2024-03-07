@@ -24,7 +24,7 @@ I am a chemist doing a PhD in theoretical biophysics
 - [PyData TLV 2022](https://www.youtube.com/watch?v=OJPgN_ce23U) a small side project to help automize my every-day life
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/AvishaiBarnoy">
+  <a href="https://twitter.com/avishai231">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="www.linkedin.com/in/avishai-barnoy">
